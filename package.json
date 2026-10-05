@@ -1,0 +1,8 @@
+{
+  "name": "ilovepdf-free-pdf-merger-converter",
+  "version": "1.0.0",
+  "description": "Convert Images to PDF, merge multiple PDF documents, and optimize files for government job forms.",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
